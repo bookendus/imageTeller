@@ -1,0 +1,7 @@
+---
+applications:
+- name: imageTeller
+  memory: 1G
+  disk_quota: 2G
+  instances: 1
+  buildpack: python_buildpack
